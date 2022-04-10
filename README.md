@@ -8,7 +8,7 @@ Access the world wide web!
 
 ```sh
 git clone https://github.com/titaniumnetwork-dev/Incognito
-cd Incognito
+cd Incognito-old/
 npm install
 npm start
 ```
